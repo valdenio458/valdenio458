@@ -2,7 +2,7 @@
 <h1 align="center"> Meu nome é Valdênio Martinho </h1>
 
 <p align="center">
-  Atualmente, estudo na Trybe (Desenvolvimento Web - FullStack) :sunglasses: </br></br>
+  Atualmente, estudo na Trybe (Desenvolvimento Web - FullStack) 👨‍🎓 </br></br>
   <i>Paixões:</i>
 </p>
 <div align="center">
