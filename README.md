@@ -10,7 +10,9 @@
       ajudar pessoas 🧑‍🤝‍🧑
       música 🎼     
       cinema 🎥 </br>
-      literatura 📚 </p>
+      literatura 📚
+      futebol ⚽
+      </p>
       </br> <a href='https://www.linkedin.com/in/vald%C3%AAnio-martinho-43852b6a/'> My LinkedIn </a>
 <div>
 
