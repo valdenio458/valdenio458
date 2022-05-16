@@ -27,7 +27,7 @@
   <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;">
   <img alt="node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
   <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">
-  <img alt="monodb" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXD7J5rhV9ZSNU_YV6lwt6coMqhAZ758LNzUmv3bd6gA&s" style="max-width:100%;">
+  <img alt="monodb" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NY8hINYOGnKXQKwNbcqjCLBdyGJ-D2zRyxd0kEaS&s" style="max-width:100%;">
   
 </div>
 </br>
