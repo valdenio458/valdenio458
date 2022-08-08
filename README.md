@@ -14,7 +14,7 @@
       futebol ⚽
       fórmula 1 🏎️
       </p>
-      </br> <a href='https://www.linkedin.com/in/vald%C3%AAnio-martinho-43852b6a/'> My LinkedIn </a>
+      </br> <a href='https://www.linkedin.com/in/valdeniomartinho458/> My LinkedIn </a>
 <div>
 
 ### Hard Skills (em desenvolvimento):
