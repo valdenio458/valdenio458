@@ -38,7 +38,7 @@
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=valdenio458&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
 
-<img  height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdenio458&langs_count=6&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
+<!-- <img  height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdenio458&langs_count=6&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/> -->
 
 ##
 
