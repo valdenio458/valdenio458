@@ -39,7 +39,11 @@
 
 ![Git Status](https://github-readme-stats.vercel.app/api?username=valdenio458&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdenio458&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages)](https://github.com/valdenio458)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdenio458&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages)](https://github.com/jpcp0614)
+
 ##
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
