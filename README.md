@@ -37,9 +37,9 @@
 
 <!-- <img align="right" width="280px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif sobre tecnologia" /> -->
 
-![Git Status](https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats)
+![Git Status](https://github-readme-stats.vercel.app/api?username=valdenio458&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&custom_title=Stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages)](https://github.com/jpcp0614)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdenio458&langs_count=10&layout=compact&theme=dark&text_color=fff&bg_color=0d1117&border_radius=8&title_color=0fa36b&custom_title=Languages)](https://github.com/jpcp0614)
 ##
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
