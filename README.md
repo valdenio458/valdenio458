@@ -2,6 +2,8 @@
 <h1 align="center"> Meu nome é Valdênio Martinho </h1>
 
 <p align="center">
+  Certiﬁcação Proﬁssional de Análise de Dados do
+Google<br>
   Formado em Desenvolvimento Web - FullStack pela Trybe 👨‍🎓 </br></br>
   <i>Paixões:</i>
 </p>
