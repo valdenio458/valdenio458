@@ -34,6 +34,7 @@ Google<br>
   <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;">
   <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;"> 
   <img alt="mongodb" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NY8hINYOGnKXQKwNbcqjCLBdyGJ-D2zRyxd0kEaS&s" style="max-width:100%;">  
+     <img alt="Tableau" height="50" width="60" src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-server-8-qualified.png" style="max-width:100%;">  
 
 </div>
 </br>
