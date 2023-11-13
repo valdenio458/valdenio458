@@ -19,7 +19,7 @@ Google<br>
       </br> <a href='https://www.linkedin.com/in/valdeniomartinho458'/> My LinkedIn </a>
 <div>
 
-### Hard Skills (em desenvolvimento):
+### Hard Skills:
 <div>
   <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
   <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
