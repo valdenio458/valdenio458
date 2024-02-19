@@ -27,8 +27,9 @@ Google<br>
     <img alt="python" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="max-width:100%;">  
     <img alt="R" height="50" width="60" src="https://www.rmining.com.br/wp-content/uploads/2015/08/RStudio-Ball.png" style="max-width:100%;">  
 <!--   <img alt="java" height="60" width"50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmBx5waS3b7Izj9v8TMoGAvONtbtfkvQFi9wmInA7&s"> -->
-  <img alt="ruby" height="50" width="60" src="https://images.vexels.com/media/users/3/166485/isolated/preview/d4061b653e6ba02ad0afdc79e0315a25-icone-da-linguagem-de-programacao-ruby.png" style="max-width:100;">
   <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;"> 
+   <img alt="jupyter" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76SbKqbDSxuMwFotaNhgN5zSNs4EZJCVdnA&usqp=CAU">
+  <img alt="collabs" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png">
   <img alt="Tableau" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2migbUoEmLP_fALQOvVclhMqzwwaclT0W7kh4gsJ&s" style="max-width:100%;">  
 <!--   <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"> -->
 <!--     <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">  -->
