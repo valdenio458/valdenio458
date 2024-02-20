@@ -9,7 +9,6 @@ Google<br>
 </p>
 <div align="center">
   <p> aprender novas tecnologias 👨‍💻 </br>
-      ajudar pessoas 🧑‍🤝‍🧑
       música 🎼     
       cinema 🎥 </br>
       literatura 📚
