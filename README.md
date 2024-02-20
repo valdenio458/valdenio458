@@ -15,7 +15,7 @@ Google<br>
       futebol ⚽
       fórmula 1 🏎️
       </p>
-      </br> <a href='https://www.linkedin.com/in/valdeniomartinho458' onclick="window.open(this.href); return false;">My LinkedIn</a>
+      </br> <a href='https://www.linkedin.com/in/valdeniomartinho458'>My LinkedIn</a>
 
 
 <div>
