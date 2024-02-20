@@ -15,7 +15,8 @@ Google<br>
       futebol ⚽
       fórmula 1 🏎️
       </p>
-      </br> <a href='https://www.linkedin.com/in/valdeniomartinho458' target="_blank"/> My LinkedIn </a>
+      </br> <a href='https://www.linkedin.com/in/valdeniomartinho458' target="_blank" rel="noopener noreferrer">My LinkedIn</a>
+
 <div>
 
 ### Hard Skills:
