@@ -31,11 +31,12 @@ Google<br>
   <img alt="mysql" height="50" width="60" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" style="max-width:100%;"> 
    <img alt="jupyter" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76SbKqbDSxuMwFotaNhgN5zSNs4EZJCVdnA&usqp=CAU">
   <img alt="collabs" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png">
-  <img alt="Tableau" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2migbUoEmLP_fALQOvVclhMqzwwaclT0W7kh4gsJ&s" style="max-width:100%;">  
 <!--   <img alt="reactjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"> -->
 <!--     <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">  -->
 <!--   <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;"> -->
-   <img alt="node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;">
+  <img alt="Power BI" height="50" width="60" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" style="max-width:100%;">
+  <img alt="Tableau" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2migbUoEmLP_fALQOvVclhMqzwwaclT0W7kh4gsJ&s" style="max-width:100%;">  
+<!--    <img alt="node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;"> -->
 <!--   <img alt="mongodb" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NY8hINYOGnKXQKwNbcqjCLBdyGJ-D2zRyxd0kEaS&s" style="max-width:100%;">   -->
      
 
