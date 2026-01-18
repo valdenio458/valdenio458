@@ -35,7 +35,7 @@ Google<br>
 <!--     <img alt="typescript" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;">  -->
 <!--   <img alt="docker" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="max-width:100%;"> -->
   <img alt="Power BI" height="50" width="60" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" style="max-width:100%;">
-  <img alt="<img alt="Tableau" title="Tableau" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">">">  
+  <img alt="<img alt="Tableau" title="Tableau" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">  
 <!--    <img alt="node" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width:100%;"> -->
 <!--   <img alt="mongodb" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NY8hINYOGnKXQKwNbcqjCLBdyGJ-D2zRyxd0kEaS&s" style="max-width:100%;">   -->
      
